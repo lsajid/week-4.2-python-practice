@@ -67,3 +67,5 @@ few states for testing purposes.
 
 **NOTE** Try not to use Cursor to write your code. It is a helpful tool, but try
 to understand the code you are writing.
+
+-- Thank you Carlos Godoy for the game idea and instructions.
