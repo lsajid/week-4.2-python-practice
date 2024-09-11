@@ -19,8 +19,6 @@ already imported for you!
 Write the rest of your code in the `script` file. You can execute a python file
 by doing `python3 lib/script.py`
 
-Please turn in your submission by the deadline on your cohort calendar.
-
 ## Requirements
 
 To play the game:
@@ -67,14 +65,5 @@ few states for testing purposes.
   the ones they got wrong the most often.
 - Add a hint functionality that prints the first 3 letters of a capitol
 
-## Plagiarism
-
-Take a moment to refamiliarize yourself with the
-[Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md).
-Plagiarized work will not be accepted.
-
-## [License](LICENSE)
-
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
-    alternative licensing, please contact legal@ga.co.
+**NOTE** Try not to use Cursor to write your code. It is a helpful tool, but try
+to understand the code you are writing.
