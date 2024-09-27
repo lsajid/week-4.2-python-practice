@@ -86,5 +86,9 @@ Develop an interactive educational game to help students memorize the capitals o
 
 - Prioritize code readability and maintainability
 - Comment code thoroughly for future reference
-- While external tools (e.g., Cursor) can be used for assistance. Please do not create ai generated code.
+- While external tools (e.g., Cursor) can be used for assistance. However, **do not create ai generated code.**
+
+**[Instructions for Project](./readme.md)**
+
+
 
