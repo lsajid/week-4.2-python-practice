@@ -1,6 +1,6 @@
 # Project Narrative: U.S. State Capitals Game Prototype Request  
 
-<img src = "./assets/learn-nation-logo.webp" alt = "LearnNation Logo" width = "200" height = "auto">
+<img src = "./assets/learn-nation-logo.webp" alt = "LearnNation Logo" width = "350" height = "auto">
 
 ## Introduction
 
