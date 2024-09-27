@@ -2,9 +2,11 @@
 
 <img src = "./assets/learn-nation-logo.webp" alt = "LearnNation Logo" width = "350" height = "auto">
 
+# Project Narrative: U.S. State Capitals Game Prototype
+
 ## Introduction
 
-Congratulations! You've been hired as a junior developer at **LearnNation**, an innovative company dedicated to building tools that make learning interactive and engaging. Your manager, Sarah, is excited to have you on board and has assigned you your first project: creating an interactive game that helps users memorize the capitals of all 50 U.S. states. Here's the catch—this isn't just a learning tool for fun, but a prototype for a future educational app the company plans to release for schools across the nation.
+You currently work as a junior developer at **LearnNation**, an innovative company dedicated to building tools that make learning interactive and engaging. Your manager, Sarah, has assigned you your first project: creating an interactive game that helps users memorize the capitals of all 50 U.S. states. Here's the catch—this isn't just a learning tool for fun, but a prototype for a future educational app the company plans to release for schools across the nation.
 
 ## Project Brief
 
@@ -43,10 +45,11 @@ Here's how you can get started on the project:
 
 Sarah gives you some additional advice:
 
-> "Remember, this is an educational tool, so clarity is key. Make sure your messages to the user are easy to understand, and don't forget to test your program thoroughly! Also, while it's okay to use tools like Cursor, do not use ai generated code. We want you to deeply understand the code you're writing."
+> "Remember, this is an educational tool, so clarity is key. Make sure your messages to the user are easy to understand, and don't forget to test your program thoroughly! Also, while it's okay to use tools like Cursor, try to avoid over-relying on them. We want you to deeply understand the code you're writing."
 
 ## Conclusion
 
 **Good luck!** Your success with this project will not only help students across the country, but it'll also prove that you're ready to take on even bigger tasks at LearnNation.
+
 
 **[Project Spec](./project-spec.md)**
