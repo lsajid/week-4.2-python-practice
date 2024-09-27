@@ -1,71 +1,48 @@
-# State Capitals
+# Project Narrative: U.S. State Capitals Game
 
-We're going to create a game to help us memorize the names of the capitals of
-all 50 states.
+## Introduction
 
-## Prerequisites
+Congratulations! You've been hired as a junior developer at **LearnNation**, an innovative company dedicated to building tools that make learning interactive and engaging. Your manager, Sarah, is excited to have you on board and has assigned you your first project: creating an interactive game that helps users memorize the capitals of all 50 U.S. states. Here's the catch—this isn't just a learning tool for fun, but a prototype for a future educational app the company plans to release for schools across the nation.
 
-- Basics of programming with Python
+## Project Brief
 
-## Instructions
+Sarah provided the following project brief:
 
-1. Fork and clone this repository.
-1. Change into the new directory.
-1. Fulfill the listed requirements.
+> "Our research shows that students struggle to memorize U.S. state capitals, and teachers have asked for a tool to help students learn them in a fun way. We're counting on you to create a game that presents each state one by one, asks the user to guess the capital, and tracks how well they do. We want students to feel motivated by seeing their scores improve, so the app needs to be engaging and clear."
 
-There is starter code available in `lib/script.py`. Note how the states are
-already imported for you!
+> "The game should shuffle the order of states so it's challenging and give students feedback on whether they guessed correctly. At the end, they'll be able to see their score and decide if they want to play again. Over time, this game will help students remember the capitals of all 50 states more easily."
 
-Write the rest of your code in the `script` file. You can execute a python file
-by doing `python3 lib/script.py`
+## Getting Started
 
-## Requirements
+Here's how you can get started on the project:
 
-To play the game:
+1. **Set up your environment.**
+   * Fork and clone the repository provided for you.
+   * Once it's cloned, change into the directory and review the starter code located in `lib/script.py`. You'll notice that the list of states and their capitals is already imported for you, so you can jump right into the fun part—building the game logic!
 
-- Your program should prompt the user to identify the capitol associated with a
-  given state.
-- There should be running tallies on the number of correct and incorrect answers
-  for each state
-- After getting through all 50 states one time, users should be asked whether or
-  not they want to play again.
+2. **Game requirements.**
+   * Your program should **prompt the user** to identify the capital of each given state.
+   * Keep a **running tally** of how many answers are correct and incorrect.
+   * After cycling through all 50 states, the user should be asked whether they want to **play again**.
+   * **Hint:** You might want to create a small test list of states and capitals to try out your code before working with all 50 states.
 
-**Hint:** It can help to make a copy of the `capitals` list that includes only a
-few states for testing purposes.
+3. **Important features:**
+   * The game should not present the states in alphabetical order—use **random.shuffle()** to keep things interesting.
+   * Welcome players with a **friendly greeting** when the game starts.
+   * Track their score and show them how they're doing after each question.
+   * When all 50 states have been covered, **ask the user if they'd like to play again**.
 
-### Game Requirements
+4. **Bonus Features (optional but highly encouraged):**
+   * Add a feature to **track how often** each state's capital is guessed correctly or incorrectly.
+   * If a player chooses to play again, make the game start with the states they missed the most.
+   * Include a **hint feature** that shows the first three letters of the capital for particularly tricky questions.
 
-- Make sure the states don't appear in alphabetical order in the prompts. This
-  will make the game a bit more challenging for the user.
-- Provide a welcome message to introduce the player to the game.
-- Through all 50 states, prompt the user to name the capitol of the state.
-- Score whether the user's guess is correct or not.
-- Calculate a overall total score, display a running tally after each prompt
-- Once the user has gone through all 50 states, ask them if they'd like to play
-  again.
+## Additional Advice
 
-### Potentially Useful Python Features
+Sarah gives you some additional advice:
 
-- `print()`
-- `input()`
-- `for` loop
-- `sorted()`
-- `random.shuffle()`
+> "Remember, this is an educational tool, so clarity is key. Make sure your messages to the user are easy to understand, and don't forget to test your program thoroughly! Also, while it's okay to use tools like Cursor, try to avoid over-relying on them. We want you to deeply understand the code you're writing."
 
-## Bonus!
+## Conclusion
 
-- Initialize **new** keys in the dictionaries that store the number of times a
-  user gets a capitol `correct` and the number of times the answer is
-  `incorrect`.
-  - If the answer is correct, display a message saying so, and increment the
-    `correct` key.
-  - If the answer is incorrect, display a message saying so, and increment the
-    `incorrect` key.
-- If the user plays again, set the order of how the prompts appear to start with
-  the ones they got wrong the most often.
-- Add a hint functionality that prints the first 3 letters of a capitol
-
-**NOTE** Try not to use Cursor to write your code. It is a helpful tool, but try
-to understand the code you are writing.
-
--- Thank you Carlos Godoy for the game idea and instructions.
+**Good luck!** Your success with this project will not only help students across the country, but it'll also prove that you're ready to take on even bigger tasks at LearnNation.
