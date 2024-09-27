@@ -78,9 +78,9 @@ Develop an interactive educational game to help students memorize the capitals o
 
 ## 6. Timeline
 
-- Development: 2 weeks
-- Testing and Refinement: 1 week
-- Final Review and Submission: 2 days
+- Development: 3 days
+- Testing and Refinement: 1 day
+- Final Submission: Monday at 2pm
 
 ## 7. Additional Notes
 
