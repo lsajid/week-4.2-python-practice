@@ -45,7 +45,7 @@ Here's how you can get started on the project:
 
 Sarah gives you some additional advice:
 
-> "Remember, this is an educational tool, so clarity is key. Make sure your messages to the user are easy to understand, and don't forget to test your program thoroughly! Also, while it's okay to use tools like Cursor, try to avoid over-relying on them. We want you to deeply understand the code you're writing."
+> "Remember, this is an educational tool, so clarity is key. Make sure your messages to the user are easy to understand, and don't forget to test your program thoroughly! Also, while it's okay to use tools like Cursor, do not create ai generated code. We want you to deeply understand the code you're writing."
 
 ## Conclusion
 
