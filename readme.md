@@ -46,3 +46,5 @@ Sarah gives you some additional advice:
 ## Conclusion
 
 **Good luck!** Your success with this project will not only help students across the country, but it'll also prove that you're ready to take on even bigger tasks at LearnNation.
+
+**[Project Spec](./project-spec.md)**
