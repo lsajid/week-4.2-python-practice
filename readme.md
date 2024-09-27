@@ -1,5 +1,7 @@
 # Project Narrative: U.S. State Capitals Game Prototype Request  
 
+<img src = "./assets/learn-nation-logo.webp" alt = "LearnNation Logo" width = "200" height = "auto">
+
 ## Introduction
 
 Congratulations! You've been hired as a junior developer at **LearnNation**, an innovative company dedicated to building tools that make learning interactive and engaging. Your manager, Sarah, is excited to have you on board and has assigned you your first project: creating an interactive game that helps users memorize the capitals of all 50 U.S. states. Here's the catch—this isn't just a learning tool for fun, but a prototype for a future educational app the company plans to release for schools across the nation.
