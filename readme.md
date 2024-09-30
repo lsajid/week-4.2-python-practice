@@ -24,19 +24,22 @@ Here's how you can get started on the project:
    * Fork and clone the repository provided for you.
    * Once it's cloned, change into the directory and review the starter code located in `lib/script.py`. You'll notice that the list of states and their capitals is already imported for you, so you can jump right into the fun part—building the game logic!
 
-2. **Game requirements.**
+2. **Turn off Cursor Auto Complete.** 
+   * In the bottom right corner of the screen, hover over the `Cursor Tab` and in the box, choose `Disable Globally`. Also choose `disabled` in the `Cursor Prediction` dropbox. This will enable you to create the code on your own without the help of Cursor. Creating the functions yourself will help you learn the material.
+
+3. **Game requirements.**
    * Your program should **prompt the user** to identify the capital of each given state.
    * Keep a **running tally** of how many answers are correct and incorrect.
    * After cycling through all 50 states, the user should be asked whether they want to **play again**.
    * **Hint:** You might want to create a small test list of states and capitals to try out your code before working with all 50 states.
 
-3. **Important features:**
+4. **Important features:**
    * The game should not present the states in alphabetical order—use **random.shuffle()** to keep things interesting.
    * Welcome players with a **friendly greeting** when the game starts.
    * Track their score and show them how they're doing after each question.
    * When all 50 states have been covered, **ask the user if they'd like to play again**.
 
-4. **Bonus Features (optional but highly encouraged):**
+5. **Bonus Features (optional but highly encouraged):**
    * Add a feature to **track how often** each state's capital is guessed correctly or incorrectly.
    * If a player chooses to play again, make the game start with the states they missed the most.
    * Include a **hint feature** that shows the first three letters of the capital for particularly tricky questions.
