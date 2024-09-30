@@ -26,6 +26,7 @@ Here's how you can get started on the project:
 
 2. **Turn off Cursor Auto Complete.** 
    * In the bottom right corner of the screen, hover over the `Cursor Tab` and in the box, choose `Disable Globally`. Also choose `disabled` in the `Cursor Prediction` dropbox. This will enable you to create the code on your own without the help of Cursor. Creating the functions yourself will help you learn the material.
+   * If you are completely stuck, you can use Cursor to get unstuck, but **DO NOT** use Cursor to write the entire program. You should use Cursor to get unstuck, but then you should write the code on your own.
 
 3. **Game requirements.**
    * Your program should **prompt the user** to identify the capital of each given state.
