@@ -8,6 +8,10 @@
 
 You currently work as a junior developer at **LearnNation**, an innovative company dedicated to building tools that make learning interactive and engaging. Your manager, Sarah, has assigned you your first project: creating an interactive game that helps users memorize the capitals of all 50 U.S. states. Here's the catch—this isn't just a learning tool for fun, but a prototype for a future educational app the company plans to release for schools across the nation.
 
+But not everyone will work on the actual app. You will be chosen based on your knowledge of Python and your ability to work with data types and data structures.
+
+**NOTE:** Your manager Sarah is traditional in her approach to software development. For this project, she wants to assess your ability to code and understand key concepts without the assistance of AI tools. While she recognizes the potential of AI to enhance productivity in the workplace, she believes it's crucial for junior developers to first demonstrate their core skills. As such, she has specifically requested that you don't use AI to create code for this project. This approach allows her to evaluate your fundamental coding abilities and problem-solving skills. You may use AI to get unstuck, but you should write the code on your own. **Make sure you can explain every line of code you write.**
+
 ## Project Brief
 
 Sarah provided the following project brief:
@@ -24,7 +28,7 @@ Here's how you can get started on the project:
    * Fork and clone the repository provided for you.
    * Once it's cloned, change into the directory and review the starter code located in `lib/script.py`. You'll notice that the list of states and their capitals is already imported for you, so you can jump right into the fun part—building the game logic!
 
-2. **Turn off Cursor Auto Complete.** 
+2. **How to Turn off Cursor Auto Complete.** 
    * In the bottom right corner of the screen, hover over the `Cursor Tab` and in the box, choose `Disable Globally`. Also choose `disabled` in the `Cursor Prediction` dropbox. This will enable you to create the code on your own without the help of Cursor. Creating the functions yourself will help you learn the material.
    * If you are completely stuck, you can use Cursor to get unstuck, but **DO NOT** use Cursor to write the entire program. You should use Cursor to get unstuck, but then you should write the code on your own.
 
