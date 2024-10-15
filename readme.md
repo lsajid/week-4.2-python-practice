@@ -27,6 +27,7 @@ Here's how you can get started on the project:
 1. **Set up your environment.**
    * Fork and clone the repository provided for you.
    * Once it's cloned, change into the directory and review the starter code located in `lib/script.py`. You'll notice that the list of states and their capitals is already imported for you, so you can jump right into the fun part—building the game logic!
+   * Refer to [Python Workspace Setup](https://github.com/jdrichards-pursuit/python-virtual-environment-setup) if you do not remember how to setup your Python Workspace.
 
 2. **How to Turn off Cursor Auto Complete.** 
    * In the bottom right corner of the screen, hover over the `Cursor Tab` and in the box, choose `Disable Globally`. Also choose `disabled` in the `Cursor Prediction` dropbox. This will enable you to create the code on your own without the help of Cursor. Creating the functions yourself will help you learn the material.
