@@ -6,6 +6,8 @@ print("Now playing: U.S. State Capitals Game Prototype")
 correct = []
 incorrect = []
 
+random.shuffle(states)
+
 for state in states:
     print(f"What is the capital of {state['name']}? press q to quit : )")
     print(state)
